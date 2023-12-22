@@ -393,7 +393,8 @@
             "Content",
             "Product Usage",
             "Participant Profile & Contact Information",
-            "Registration Information"
+            "Registration Information",
+            "New Permission"
         ],
         "managePermissions": [],
         "developerDocumentation": "https://www.obsidiansecurity.com/wp-content/uploads/2020/06/Obsidian-Zoom-Application-Documentation.pdf",
